@@ -1,0 +1,3 @@
+/home/zheng/src/VR/build/debug/CMakeFiles/rebuild_cache.dir
+/home/zheng/src/VR/build/debug/CMakeFiles/edit_cache.dir
+/home/zheng/src/VR/build/debug/CMakeFiles/VR.dir
